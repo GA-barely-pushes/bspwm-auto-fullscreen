@@ -10,7 +10,7 @@ You are free to inspire yourself and do the programmers best trick using my scri
 ---
 # INSTALLATION
 ```bash
-git clone https://github.com/Z-marG/bspwm-auto-fullscreen.git
+git clone https://github.com/GA-barely-pushes/bspwm-auto-fullscreen.git
 cd bspwm-auto-fullscreen
 mkdir -p ~/.config/bspwm/scripts/
 cp .config/bspwm/scripts/autofullscreen.sh ~/.config/bspwm/scripts/
